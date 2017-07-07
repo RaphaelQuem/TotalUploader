@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Repos\TotalUploader\App.xaml
-11151548125
+1210114681
 
-10-251447285
+101752478265
 14-1787462521
-MainWindow.xaml;
+FTPUploadWindow.xaml;
 
-True
+False
 
